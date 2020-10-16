@@ -1,0 +1,24 @@
+C is enqueued.
+D is enqueued.
+A is enqueued.
+B is enqueued.
+Queue: A C B D 
+A is dequeued. 
+Queue: C B D 
+The priority at the front of the queue is 2
+Item at the front of the queue is C
+Number of items in the Queue is: 3
+C is dequeued. 
+B is dequeued. 
+Queue: D 
+Queue is Not Empty
+D is dequeued. 
+Queue Underflow, exception thrown!
+K is enqueued.
+G is enqueued.
+Queue: G K 
+Number of items in the Queue is: 2
+Queue: 
+Number of items in the Queue is: 0
+Queue is not full.
+Queue Underflow, exception thrown!
